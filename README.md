@@ -7,7 +7,6 @@ Welcome to my profile! I'm working at [Bekredito](https://bekredito.lt) as a Sr.
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/hizbul25)
 
 ![Hizbul Bahar's github stats](https://github-readme-stats.vercel.app/api?username=hizbul25&show_icons=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizbul25&layout=compact&hide=html" alt="hizbul25" />
 
 
 ### Show some ❤️ by starring some of the repositories!
