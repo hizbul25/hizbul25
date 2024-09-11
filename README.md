@@ -1,5 +1,5 @@
 # Hi I'm Hizbul Bahar 👋
-Welcome to my profile! I'm working at [Bekredito](https://bekredito.lt) as ERP Direction Lead. Thanks for visiting me and I'd love to connect!
+Welcome to my profile! I'm working at [Inument Solution Ltd](https://inument.com) as Senior Python Engineer. Thanks for visiting me and I'd love to connect!
 <!--Website -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hizbul)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/hizbul25)
